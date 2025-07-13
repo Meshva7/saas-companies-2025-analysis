@@ -57,6 +57,12 @@ Translate analytical findings into strategic recommendations, such as identifyin
 
 ---
 
+## 📄 Summary Report
+Detailed project explanation, insights, and business recommendations:  
+👉 [Click here to read the full Summary Report](./SaaS_Analysis_Summary.md)
+
+---
+
 ## 🌟 About Me
 
 Hi! I'm Meshva Patel, an aspiring Data Analyst with a strong passion for turning raw data into clear, actionable insights.
