@@ -59,7 +59,7 @@ Translate analytical findings into strategic recommendations, such as identifyin
 
 ## 📄 Summary Report
 Detailed project explanation, insights, and business recommendations:  
-👉 [Click here to read the full Summary Report](./SaaS_Analysis_Summary.md)
+👉 [Click here to read the full Summary Report](./saas_summary_report.md)
 
 ---
 
