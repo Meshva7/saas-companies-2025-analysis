@@ -1,4 +1,4 @@
-# 📊 SaaS Companies 2025: Data Analysis Summary Report
+# 📋 SaaS Companies 2025 - Data Analysis Summary Report
 
 ## 🧭 Executive Summary
 This project analyzes a curated list of the top 100 SaaS companies in 2025 using a data-driven approach. With the help of Python and Power BI, the project uncovers growth trends, sector dominance, valuation patterns, and investment insights within the SaaS ecosystem.
@@ -9,22 +9,22 @@ This project analyzes a curated list of the top 100 SaaS companies in 2025 using
 - Key variables:
   - `Company`, `Year Founded`, `HQ Location`, `Industry`, `Funding($M)`, `ARR ($B)`, `Valuation ($B)`, `Child Company`, `Employees`, `Investors`, `Product`, `G2 Rating`
 
-## 🧹 Data Cleaning (Python)
-Performed using `pandas`:
+## 🧹 Data Cleaning - Python
+Performed using `pandas`-
 - Removed nulls and duplicates
 - Standardized financial fields
 - Converted string-based metrics (e.g., "$1.2B", "25%") to numerical values
 - Claculate the number of outliers for each numeric column
 
 ## 📊 Exploratory Data Analysis
-Visualizations using `matplotlib` and `seaborn`:
+Visualizations using `matplotlib` and `seaborn`-
 - Top 10 investors by total funding
-- Scatterplots
-- Histogram 
+- Scatter Plot Analysis of SaaS Metrics Relationships
+- Histogram - Funding, Valuation, ARR, and Employee Count in Top 100 SaaS Companies
 - Heatmap: Correlation between numerical metrics
 
-## 📌 Power BI Dashboard
-Interactive visuals showing:
+## 📈 Power BI Dashboard
+Interactive visuals showing-
 - KPI cards
 - Top 5 companies by valuation & ARR
 - Top 10 industries by valuation
