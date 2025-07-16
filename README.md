@@ -77,7 +77,7 @@ Thanks for checking out my project! I'm actively building my portfolio as a Data
 
 If you'd like to collaborate, discuss this project, or offer feedback,
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/meshva-patel-8750b02b7) or explore more of my work on [GitHub](https://github.com/Meshva7), or reach out via email at datawithmeshva@gmail.com.
+Feel free to connect with me on [LinkedIn](https://linkedin.com/in/meshva-patel-8750b02b7) or explore more of my work on [GitHub](https://github.com/Meshva7), or reach out via email at meshvapatel07@gmail.com.
 
 ---
 
