@@ -51,7 +51,7 @@ Translate analytical findings into strategic recommendations, such as identifyin
 ## 📦 Deliverables
 
 - 📁 `Python.ipynb` → Python cleaning & EDA notebook
-- 📊 `SaaS_Companies_Analysis.pbix` → Power BI dashboard
+- 📊 `dashboard.pdf` → Power BI dashboard image 
 - 📝 `saas_summary_report.md` → Key findings & strategic recommendations
 - 📄 `README.md` → Project documentation (you’re here!)
 
