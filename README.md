@@ -1,4 +1,4 @@
-# 📊 SaaS Companies 2025 – Data Analysis (Python + Power BI)
+# 📊 SaaS Companies Analysis – Python + Power BI
 
 This project analyzes the top 100 SaaS (Software as a Service) companies in 2025 using **Python** for data cleaning and exploration, and **Power BI** for dynamic dashboards. It showcases my end-to-end capabilities in real-world data analytics, insight generation, and business intelligence reporting.
 
